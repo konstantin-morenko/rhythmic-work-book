@@ -1,0 +1,16 @@
+remote_theme: konstantin-morenko/just-the-docs-reborn
+
+title: Ритмичная работа 12+
+description: Вся наша жизнь подчинена ритмам.  Как найти свой ритм и извлечь из него максимум пользы?
+
+aux_links:
+  "Купить книгу":
+    - "https://konstantin-morenko.ru/rhythmic-work-book/"
+  "Другие книги":
+    - "https://konstantin-morenko.ru/#books"
+  "Константин Моренко":
+    - "https://konstantin-morenko.ru"
+
+ycnumber: 69954367
+# mathjax: true
+# title_font_size: 18px
